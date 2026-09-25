@@ -4,7 +4,7 @@
 #define LED 17
 #define BUTTON1 22
 #define BUTTON2 23
-
+// Hola jotitos
 int main (void)
 {
     gpio_init();
